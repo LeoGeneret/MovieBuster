@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/MovieBuster/static/css/main.6a56adc5.chunk.css",
+    "main.js": "/MovieBuster/static/js/main.7c68691c.chunk.js",
+    "main.js.map": "/MovieBuster/static/js/main.7c68691c.chunk.js.map",
+    "runtime~main.js": "/MovieBuster/static/js/runtime~main.c30275fe.js",
+    "runtime~main.js.map": "/MovieBuster/static/js/runtime~main.c30275fe.js.map",
+    "static/css/2.7fad5d03.chunk.css": "/MovieBuster/static/css/2.7fad5d03.chunk.css",
+    "static/js/2.3b05097a.chunk.js": "/MovieBuster/static/js/2.3b05097a.chunk.js",
+    "static/js/2.3b05097a.chunk.js.map": "/MovieBuster/static/js/2.3b05097a.chunk.js.map",
+    "index.html": "/MovieBuster/index.html",
+    "precache-manifest.98f1de50c0355b03deb5eb20eb5e047f.js": "/MovieBuster/precache-manifest.98f1de50c0355b03deb5eb20eb5e047f.js",
+    "service-worker.js": "/MovieBuster/service-worker.js",
+    "static/css/2.7fad5d03.chunk.css.map": "/MovieBuster/static/css/2.7fad5d03.chunk.css.map",
+    "static/css/main.6a56adc5.chunk.css.map": "/MovieBuster/static/css/main.6a56adc5.chunk.css.map",
+    "static/media/index.css": "/MovieBuster/static/media/ProductSansRegular.eae9c18c.ttf"
+  }
+}
